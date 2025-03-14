@@ -33,8 +33,13 @@ h2 {
     font-size: 24px;
     color: green;
     margin-bottom: 15px;
+    font-family: 'Roboto', sans-serif;
+    font-weight: 600;
 }
-
+p, li {
+    font-family: 'Poppins', sans-serif;
+    font-weight: 300;
+}
 p {
     font-size: 16px;
     line-height: 1.6;
@@ -74,7 +79,7 @@ ul li a:hover {
 }
 section {
     max-width: 800px; 
-    margin: 50px auto;
+    margin: 80px auto;
     text-align: left;
     padding: 40px; 
     background: #121212;
